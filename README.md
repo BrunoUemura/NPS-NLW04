@@ -8,7 +8,7 @@ These applications were developed using Node.js latest LTS version. Running thes
 
 Here's the list of prerequisites you need to follow before the setup of these applications.
 
-You can follow the steps on the link bellow:
+You can follow the steps on the following link:
 [Installation](https://www.notion.so/Instala-o-das-ferramentas-1c09af201b4b49c5bf1678842a96d9ab)
 
 - Install Node.js latest LTS version
@@ -21,4 +21,4 @@ Download the zip folder or clone the repository to your local machine.
 Then go to the path of the downloaded files and execute the following command, this will install all the dependencies from **package.json**
 
 - `npm install`
-- `yarn add`
+- `yarn`
