@@ -8,7 +8,7 @@ These applications were developed using Node.js latest LTS version. Running thes
 
 Here's the list of prerequisites you need to follow before the setup of these applications.
 
-You can follow the steps on the following link:
+You can follow the steps on the following realink:
 [Installation](https://www.notion.so/Instala-o-das-ferramentas-1c09af201b4b49c5bf1678842a96d9ab)
 
 - Install Node.js latest LTS version
