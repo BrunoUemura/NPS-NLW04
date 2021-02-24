@@ -6,10 +6,24 @@ export class CreateUsers1614092489906 implements MigrationInterface {
       new Table({
         name: "users",
         columns: [
-          { name: "id", type: "uuid", isPrimary: true },
-          { name: "name", type: "varchar" },
-          { name: "email", type: "varchar" },
-          { name: "created_at", type: "timestamp", default: "now()" },
+          {
+            name: "id",
+            type: "uuid",
+            isPrimary: true,
+          },
+          {
+            name: "name",
+            type: "varchar",
+          },
+          {
+            name: "email",
+            type: "varchar",
+          },
+          {
+            name: "created_at",
+            type: "timestamp",
+            default: "now()",
+          },
         ],
       })
     );
